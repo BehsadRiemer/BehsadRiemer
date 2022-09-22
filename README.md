@@ -10,13 +10,13 @@
 <img src = "https://img.shields.io/static/v1?label=&message=Java&color=red"/> <img src = "https://img.shields.io/static/v1?label=&message=Javascript&color=yellow"/> <img src = "https://img.shields.io/static/v1?label=&message=React&color=blue"/> <img src = "https://img.shields.io/static/v1?label=&message=html&color=ff69b4"/> <img src = "https://img.shields.io/static/v1?label=&message=css&color=blueviolet"/> <img src = "https://img.shields.io/static/v1?label=&message=git&color=black"/>
 
 # Links #
-<a href = "mailto:Behsad.Riemer@icloud.com">
+<a href = "mailto:Behsad.Riemer@icloud.com" target = "_blank">
   <img src = "https://img.shields.io/static/v1?label=Link&message=Email&color=green"/>
 </a>
-<a href = "https://www.BehsadRiemer.com">
+<a href = "https://www.BehsadRiemer.com" target = "_blank">
   <img src = "https://img.shields.io/static/v1?label=Link&message=PersonalWebsite&color=blueviolet"/>
 </a>
-<a href = "https://www.https://www.linkedin.com/in/behsad-riemer">
+<a href = "https://www.https://www.linkedin.com/in/behsad-riemer" target = "_blank">
   <img src = "https://img.shields.io/static/v1?label=Link&message=Linked In&color=0062b1"/>
 </a>
 <!--
