@@ -1,7 +1,7 @@
 ![alt text](https://github.com/BehsadRiemer/BehsadRiemer/blob/main/header.png?raw=true)
 
 # About Me #
-- 📚 Coming into my second year of Computer Science & Business at <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Logo_of_the_Technical_University_of_Munich.svg/816px-Logo_of_the_Technical_University_of_Munich.svg.png" width="25"> - The Technical University of Munich
+- 📚 I'm in my second year of Computer Science & Business at <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Logo_of_the_Technical_University_of_Munich.svg/816px-Logo_of_the_Technical_University_of_Munich.svg.png" width="25"> - The Technical University of Munich
 - 🔭 I’m currently practicing my application of data structures & algorithms
 - 🌱 I’m currently learning <img src = "https://img.shields.io/static/v1?label=&message=ExpressJS&color=critical"/> & <img src = "https://img.shields.io/static/v1?label=&message=NodeJS&color=brightgreen"/>
 
