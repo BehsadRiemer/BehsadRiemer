@@ -6,10 +6,10 @@
 - 🌱 I’m currently practicing TypeScript and Next.js
 
 # Links #
-<a href = "https://www.BehsadRiemer.com" target = "_blank">
+<a href = "https://behsadriemer.com" target = "_blank">
   <img src = "https://img.shields.io/static/v1?label=Link&message=PersonalWebsite&color=blueviolet"/>
 </a>
-<a href = "https://www.https://www.linkedin.com/in/behsad-riemer" target = "_blank">
+<a href = https://www.linkedin.com/in/behsad-riemer" target = "_blank">
   <img src = "https://img.shields.io/static/v1?label=Link&message=LinkedIn&color=0062b1"/>
 </a>
 <a href = "mailto:Behsad.Riemer@icloud.com" target = "_blank">
